@@ -33,8 +33,23 @@
    -> Finish
 -  If everything goes right Project will get successfully imported
 -  Now wait for few seconds for getting things properly loaded
--  Done
-- Now Try to Run the Project
+
+-  Now open Project > src/main/resources > open application.properties file,
+   inside this file look for
+   
+   spring.datasource.url=jdbc:mysql://localhost:3306/springbootnew?serverTimezone=UTC
+
+   here "springbootnew" is the name of the database.
+   
+   so create database name "springbootnew" in MySQL
+   or
+   you can also create the database with different name in MySQL. but the created database
+   name in MySQL should match the database name in url in application.properties file.
+   so according to created database in MySQL set the database name in url in 
+   application.properties 
+   file.
+   - Now save the changes.
+  - And Try to Run the Project
 
   ### If you are using Spring Tool Suite 
  -  Right Click On Project > Run As > Spring Boot App 
