@@ -42,13 +42,15 @@
    here "springbootnew" is the name of the database.
    
    so create database name "springbootnew" in MySQL
-   or
-   you can also create the database with different name in MySQL. but the created database
+
+    or
+
+   (you can also create the database with different name in MySQL. but the created database
    name in MySQL should match the database name in url in application.properties file.
    so according to created database in MySQL set the database name in url in 
    application.properties 
    file.
-   - Now save the changes.
+   - Now save the changes.)
   - And Try to Run the Project
 
   ### If you are using Spring Tool Suite 
