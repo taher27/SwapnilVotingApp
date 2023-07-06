@@ -41,7 +41,9 @@
 
    here "springbootnew" is the name of the database.
    
-   so create database name "springbootnew" in MySQL
+     so
+
+   ## create database name "springbootnew" in MySQL.
 
     or
 
