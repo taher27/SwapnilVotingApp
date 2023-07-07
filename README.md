@@ -23,14 +23,24 @@
 - Select Clone URI -> Next
 - In URI paste this url: https://github.com/swapnilbamble1438/VotingApp.git
   -> Next
--  Now in Local Destination if it is not showing any error then proceed -> Next
+-  Now in Local Destination
+
+-  if it is not showing any error then proceed -> Next
+-  Now only select VotingApp\VotingApp or VotingAppNew\VotingApp
+    > Finish
   
-   else if it is showing error, means there is already a project with same name exist.
-   then change the Directory: like if it is C:\Users\Swapnil\git\VotingApp
-   then change it to C:\Users\Swapnil\git\VotingAppNew
+  - else if it is showing error, means there is already a project with same name exist.
+   then change the Directory: like if it is
+
+   C:\Users\Swapnil\git\VotingApp
+   
+   then change it to 
+   
+   C:\Users\Swapnil\git\VotingAppNew
    -> Next
 -  Now only select VotingApp\VotingApp or VotingAppNew\VotingApp
    -> Finish
+   
 -  If everything goes right Project will get successfully imported
 -  Now wait for few seconds for getting things properly loaded
 
