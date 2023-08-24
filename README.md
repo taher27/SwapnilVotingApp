@@ -25,23 +25,9 @@
   -> Next
 -  Now in Local Destination
 
--  if it is not showing any error then proceed -> Next
+-  proceed -> Next
 
             Now only select VotingApp\VotingApp
-            -> Finish
-  
- -  else if it is showing error, means there is already a project with same name exist.
-        then change the Directory: like if it is
-
-           C:\Users\Swapnil\git\VotingApp
-   
-           then change it to 
-   
-           C:\Users\Swapnil\git\VotingAppNew
-   
-          -> Next
-
-            Now only select VotingAppNew\VotingApp 
             -> Finish
    
 -  If everything goes right Project will get successfully imported
