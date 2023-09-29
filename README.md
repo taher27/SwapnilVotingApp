@@ -72,7 +72,7 @@
  -  Application will get Open.
 
  ### Try Javascript Version 
-url: https://swapnilbamble1438.github.io/VotingAppProject/
+url: https://swapnilbamble1438.github.io/VotingApplication/
 
 
 ### Some Screenshots of this Project:
